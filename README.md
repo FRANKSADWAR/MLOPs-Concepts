@@ -11,9 +11,8 @@ notebooks but rather being used by other services.
 - MLOPs brings aims to structure the machine learning project to realize value for
 the business.
 
-
-
-
 ## Benefits of MLOps
-
+- Speed in deployment and development
+- Reliability and security
+- Automation
 
